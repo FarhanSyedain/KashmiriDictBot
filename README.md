@@ -1,4 +1,4 @@
-##Usage
+# Usage
 
 So basicly if your working on kashmiri dictionary and have problem with typing difficult symbols, this script will help you.
 
